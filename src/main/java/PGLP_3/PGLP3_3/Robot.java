@@ -1,8 +1,6 @@
 package PGLP_3.PGLP3_3;
 
-public class Robot {
 
-}
 public class Robot {
 	public int position;
 	public Robot(int position) {
