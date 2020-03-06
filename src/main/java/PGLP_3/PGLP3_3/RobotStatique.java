@@ -5,4 +5,7 @@ public class RobotStatique {
 	public RobotStatique(int position) {
 		this.position=position;
 	}
+	public void avance() {
+		throw new UnsupportedOperationException();
+	}
 }
