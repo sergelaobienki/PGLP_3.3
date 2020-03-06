@@ -4,4 +4,8 @@ public class RobotType1 {
 	public RobotType1(int position) {
 		super(position);
 	}
+	public void avance()
+	{
+		super.position+=10;
+	}
 }
