@@ -1,8 +1,8 @@
 package PGLP_3.PGLP3_3;
 
 import java.util.ArrayList;
-public class RobotTest{
- @test
+public class RobotTest {
+ @org.junit.Test
  public void test() {
 	 ArrayList<Robot> Robots=new ArrayList<Robot>();
 	 Robots.add(new RobotType1(20));
